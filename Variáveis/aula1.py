@@ -11,13 +11,13 @@ print(type(ano))
 x = int(input("Digite o número: "))
 
 if x > 7:
-    print("Maior que 7")
+    print("O valor é maior que 7")
 
 elif x == 7:
-    print("O valor é igual")
+    print("O valor é igual a 7")
 
 else: x < 7
-print("Menor que 7")
+print("O valor é menor que 7")
 
 #Laços
 
